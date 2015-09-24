@@ -1,7 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f420f97d-1eb4-4514-9b0b-b3c17b82256e" name="Default" comment="" />
+    <list default="true" id="f420f97d-1eb4-4514-9b0b-b3c17b82256e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/animations-100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/band-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/make-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/make-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/make-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/megamenu-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/menu-elements.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/png-icons/phone-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-1-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-2-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-3-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-4-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-5-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-6-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-7-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-8-270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-1-84.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-2-84.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-3-84.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider1-css3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider1-html5-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider1-html5-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider1-phone-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider1-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-four.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-homepage1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-homepage2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-homepage3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-homepage4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-quadrate7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider2-two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider3-coin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider3-pig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider3-pig2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-slider4-img9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/png-icons/search-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrapValidator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/price-regulator/draggable-0.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/layerslider/greensock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iframe_api" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jplayer/jplayer.playlist.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.appear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.carouFredSel-6.2.1-packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/price-regulator/jquery.dependClass-0.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easypiechart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.elevateZoom-3.0.8.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.imagesloaded.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jplayer/jquery.jplayer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/price-regulator/jquery.numberformatter-1.2.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.royalslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.selectBox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/price-regulator/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/revolution/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/revolution/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.touchwipe.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.tubular.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/price-regulator/jshashtable-2.1_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ladda.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/layerslider/layerslider.kreaturamedia.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/layerslider/layerslider.transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/livicons-1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/pixastic.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/raphael.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/price-regulator/tmpl.js" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\index.htm" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js2\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js2\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js2\docs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js2\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\draggable-0.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\greensock.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\isotope.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_002.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_003.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_004.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_005.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_006.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_007.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_008.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_009.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_010.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_011.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_012.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_013.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_014.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_015.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_016.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_017.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_018.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_019.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jquery_020.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\jshashtable-2.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\ladda.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\layerslider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\layerslider_002.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\livicons-1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\main_002.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\masonry.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\morris.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\pixastic.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\raphael.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\capoeirabrasil\js\spin.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/office-1-270.jpg" afterPath="$PROJECT_DIR$/img/office-1-270.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/office-2-270.jpg" afterPath="$PROJECT_DIR$/img/office-2-270.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/office-3-270.jpg" afterPath="$PROJECT_DIR$/img/office-3-270.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/office-4-270.jpg" afterPath="$PROJECT_DIR$/img/office-4-270.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team-1.jpg" afterPath="$PROJECT_DIR$/img/team-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team-2.jpg" afterPath="$PROJECT_DIR$/img/team-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team-3.jpg" afterPath="$PROJECT_DIR$/img/team-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team-4.jpg" afterPath="$PROJECT_DIR$/img/team-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/SmoothScroll.js" afterPath="$PROJECT_DIR$/js/SmoothScroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/country.js" afterPath="$PROJECT_DIR$/js/country.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/pages.css" afterPath="$PROJECT_DIR$/css/pages.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="capoeirabrasil.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,21 +216,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.htm">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.101313">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.29960316">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <file leaf-file-name="Creative Home _ Progressive — Responsive Multipurpose HTML Template.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/pagina/Creative Home _ Progressive — Responsive Multipurpose HTML Template.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="21.407408">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="572.85455">
+              <caret line="396" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="2273" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -44,13 +238,37 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/css/home-pages-customizer.css" />
+        <option value="$PROJECT_DIR$/js/SmoothScroll.js" />
+        <option value="$PROJECT_DIR$/js/bootstrap-datepicker.js" />
+        <option value="$PROJECT_DIR$/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/js/bootstrapValidator.js" />
+        <option value="$PROJECT_DIR$/js/country.js" />
+        <option value="$PROJECT_DIR$/js/isotope.pkgd.min.js" />
+        <option value="$PROJECT_DIR$/js/jquery.appear.js" />
+        <option value="$PROJECT_DIR$/js/jquery.carouFredSel-6.2.1-packed.js" />
+        <option value="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" />
+        <option value="$PROJECT_DIR$/js/jquery-2.1.3.min.js" />
         <option value="$PROJECT_DIR$/index.htm" />
+        <option value="$PROJECT_DIR$/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/css/pages.css" />
+        <option value="$PROJECT_DIR$/index2.html" />
       </list>
     </option>
   </component>
@@ -61,6 +279,9 @@
   <component name="NamedScopeManager">
     <order />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -68,7 +289,7 @@
     <option name="width" value="1376" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -118,8 +339,12 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\capoeirabrasil" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\capoeirabrasil\js" />
       <recent name="C:\wamp\www\capoeirabrasil\img" />
@@ -149,6 +374,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f420f97d-1eb4-4514-9b0b-b3c17b82256e" name="Default" comment="" />
@@ -159,11 +387,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20516717" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16337386" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -182,6 +410,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -220,14 +456,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jshashtable-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.724138">
@@ -252,42 +480,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery_002.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/commonutilstats.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="531.62964">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery_010.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -300,10 +496,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.htm">
+    <entry file="file://$PROJECT_DIR$/js/isotope.pkgd.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.101313">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="5593" selection-start-line="7" selection-start-column="5593" selection-end-line="7" selection-end-column="5593" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.carouFredSel-6.2.1-packed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45617172">
+          <caret line="15" column="22434" selection-start-line="15" selection-start-column="22434" selection-end-line="15" selection-end-column="22434" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.appear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9391771">
+          <caret line="149" column="11" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/country.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9391771">
+          <caret line="229" column="11" selection-start-line="229" selection-start-column="11" selection-end-line="229" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrapValidator.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33452594">
+          <caret line="11" column="23805" selection-start-line="11" selection-start-column="23805" selection-end-line="11" selection-end-column="23805" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3041145">
+          <caret line="10" column="31650" selection-start-line="10" selection-start-column="31650" selection-end-line="10" selection-end-column="31650" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap-datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9087657">
+          <caret line="1671" column="0" selection-start-line="1671" selection-start-column="0" selection-end-line="1671" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SmoothScroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21288015">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-2.1.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="20037" selection-start-line="3" selection-start-column="20037" selection-end-line="3" selection-end-column="20037" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/paginadesarrollar/One Page Home _ Progressive — Responsive Multipurpose HTML Template.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="515.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/pagina/Creative Home _ Progressive — Responsive Multipurpose HTML Template.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="572.85455">
+          <caret line="396" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="2273" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2236842">
+          <caret line="3" column="595" selection-start-line="3" selection-start-column="595" selection-end-line="3" selection-end-column="595" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="51.607143">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29960316">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding />
         </state>
       </provider>

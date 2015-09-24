@@ -13,9 +13,9 @@
             var w = 0;
             container.find('>span').each(function () {
                 if ($(this).hasClass('county-days-wrapper') ||
-                $(this).hasClass('county-hours-wrapper') ||
-                $(this).hasClass('county-minutes-wrapper') ||
-                $(this).hasClass('county-seconds-wrapper'))
+                    $(this).hasClass('county-hours-wrapper') ||
+                    $(this).hasClass('county-minutes-wrapper') ||
+                    $(this).hasClass('county-seconds-wrapper'))
                     w += $(this).outerWidth();
             });
 
